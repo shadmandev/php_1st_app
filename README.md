@@ -1,4 +1,8 @@
-# Task 1: Personal Information Page <code>index.php</code>
+# Task 1: Personal Information Page
+
+```php
+index.php
+```
 
 # Task 2: Temperature Converter
 
